@@ -1,5 +1,7 @@
 # 💫 About Me:
-hi
+Hi, nice to meet you!
+
+I’m a developer who sees every project as an opportunity to combine logic and creativity. I enjoy writing not only efficient code but also code that inspires and opens new horizons. My goal is to approach tasks with a creative mindset, find unconventional solutions, and make technology more vibrant.
 
 
 # 💻 Tech Stack:
